@@ -1,4 +1,3 @@
-# My name is Slim Shady 
-## My name is Slim Shady
-### I'm Slim Shady yes I'm the real shady
-#### All you other Slim Shadies are just imitating 
+# Stupid Monster 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

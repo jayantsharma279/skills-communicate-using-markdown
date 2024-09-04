@@ -1,7 +1,5 @@
-#### This is a sample Python file
+#### Task List to be done
 
-```  python
-#Is this a comment?
-int x = 3
-print("Hello this is", x)
-```  
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

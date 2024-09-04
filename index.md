@@ -1,3 +1,7 @@
-# Stupid Monster 
+#### This is a sample Python file
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```  python
+#Is this a comment?
+int x = 3
+print("Hello this is", x)
+```  
